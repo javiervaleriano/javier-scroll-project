@@ -232,7 +232,7 @@ a {
 
 
 /* Media queries */
-@media only screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
     .all-nav {
         background: transparent;
         position: absolute;
